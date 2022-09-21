@@ -2,7 +2,7 @@
 
 Indulge into divine luxury cuisine in the comfort of your home with this Online Food Ordering Restaurant Themed Website, designed using PHP and MySQL. This website is responsive and dynamic with separate client and admin interfaces. It offers a variety of facilities such as viewing, adding, deleting and updating the different admins, similarly changing categories, foods, managing orders etc. The client side is inspired by the interface of Zomato, which is an online food ordering platform, it offers pictures, descriptions and ordering flexibilties to the customer.
 
-The website's database is maintained around 4 different tables, for admins, categories, foods and orders. Efforts have been made towards securing the website's code through the use of SQL injection features, md5 and a login for admins without which the admin dashboard will not be accessible. This project has been developed while self learning PHP and MySQL and has helped me in understanding and mastering create, insert and delete operations of various enteries.
+The website's database is maintained around 4 different tables, for admins, categories, foods and orders. Efforts have been made towards securing the website's code through the use of SQL injection features, md5 and a login for admins without which the admin dashboard will not be accessible. This project has been developed while self learning PHP and MySQL and has helped me in understanding and mastering create, insert and delete operations of various enteries. I have started by creating an HTML template then converted it into PHP and then used MySQL database to fetch products and display it in the project.
 
 ![loginpage](https://user-images.githubusercontent.com/96685742/191229408-01887ec3-8390-4500-88a6-68c64ea33719.png)
 
